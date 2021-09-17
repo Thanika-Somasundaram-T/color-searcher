@@ -1,0 +1,6 @@
+.colors {
+	display: table-cell;
+	height: 500px;
+	min-width: 100px;
+	max-width: 1300px;
+}
